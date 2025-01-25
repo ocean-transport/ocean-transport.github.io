@@ -1,9 +1,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
+title: LDEO Ocean Transport Group
+author: LOT Group
+copyright: "2025"
+logo: ./_static/otg_logo_blue.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

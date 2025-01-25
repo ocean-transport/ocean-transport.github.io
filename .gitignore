@@ -1,0 +1,9 @@
+_build/
+.ipynb_checkpoints/
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.idea/
+__pycache__/
+*.pyc
