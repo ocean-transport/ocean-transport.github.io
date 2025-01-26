@@ -17,7 +17,7 @@ To see published work proceed to [publications](./publications), or to see cool 
 
 The ocean exchanges tracers (e.g. heat, carbon, etc) with the atmosphere at the air-sea interface, and these are further exchanged with the interior ocean through the base of the mixed layer. Understanding the mechanisms setting the rate of this vertical transport or ventilation are crucial for quantifying the ocean’s role in climate variability. I have explored the role of the macroscale turbulence, which twists isopycnal outcrops and generates strong fronts near the surface, in controlling this vertical transport using both high-resolution simulations and observations.  
     
-## Observing and inferring properties of turbulent phenomenon 
+## Observing and inferring properties of turbulent phenomena  
 
 A key signature of turbulent flows is the distribution of energy (or variance) across a wide range of scales, which is accomplished by a cascade or transfer of energy across scales. It is very challenging to measure the properties of these cascades over the 1-100km range of scales, as these scales are too large to be sampled rapidly by ships and usually too small to be accurately measured by satellites. I have addressed this challenge by using observations from arrays of drifting instruments in combination with appropriate new statistical metrics for working with scattered data. My work has resulted in estimates of the scale-wise distribution and dynamical properties of the kinetic energy and tracer variance, and the rates at which this energy is transferred across scales.
 
