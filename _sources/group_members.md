@@ -21,10 +21,10 @@ You can find his personal website [here](https://dhruvbalwada.github.io/).
 ## PhD Students 
 
 ### Prani Nalluri
-Prani is a PhD student in the APAM department. 
+Prani is a PhD student in the APAM department. They are funded by the DOE CSGF fellowship.
 
 ### Andrew Fagerheim 
-Andrew is a PhD student in the APAM department. 
+Andrew is a PhD student in the APAM department. He is funded by the NSF GRFP fellowship.
 
 ## Postdocs
 
