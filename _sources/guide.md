@@ -241,3 +241,4 @@ Don't overwork! Some other tips, based on experience, are the following:
 
 If you feel like you need help, don't hesitate to contact
 [Columbia Counseling and Psychological Services](https://health.columbia.edu/content/counseling-and-psychological-services)
+
