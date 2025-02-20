@@ -23,8 +23,8 @@ You can find his personal website [here](https://dhruvbalwada.github.io/).
 ### Prani Nalluri
 Prani is a PhD student in the APAM department. They are funded by the DOE CSGF fellowship.
 
-### Andrew Fagerheim 
-Andrew is a PhD student in the APAM department. He is funded by the NSF GRFP fellowship.
+### Andrew Marshall Fagerheim 
+Andrew is a PhD student in the Department of [Earth & Environmental Sciences](https://eesc.columbia.edu/). He is funded by the National Science Foundation's [Graduate Research Fellowship Program](https://www.nsfgrfp.org/). His research interests are in (sub)mesoscale physical oceanography, and he is currently studying eddy stirring and turbulence using Argo float data. In addition to research, Andrew is interested in climate education and advocacy and is a Youth Advisory Board member at [The Wild Center](https://www.wildcenter.org/), a science and nature museum in the Adirondacks. He can be contacted at afagerheim@ldeo.columbia.edu.
 
 ## Postdocs
 
