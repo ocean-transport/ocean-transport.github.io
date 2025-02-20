@@ -25,7 +25,7 @@ Prani is a PhD student in the APAM department. They are funded by the DOE CSGF f
 
 ### Andrew Marshall Fagerheim 
 
-```{image} ./_static/photos/andrewjpg
+```{image} ./_static/photos/andrew.jpg
 :alt: andrew
 :class: biopic
 :width: 200px
