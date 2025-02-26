@@ -35,6 +35,7 @@ Andrew is a PhD student in the Department of [Earth & Environmental Sciences](ht
 
 ## Postdocs
 
+### Manuel O. Gutierrez-Villanueva
 
 ## Other Researchers
 
