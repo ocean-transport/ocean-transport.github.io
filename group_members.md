@@ -35,6 +35,15 @@ Andrew is a PhD student in the Department of [Earth & Environmental Sciences](ht
 
 ## Postdocs
 
+### Manuel Othon Gutierrez Villanueva
+
+```{image} ./_static/photos/manuel.jpg
+:alt: manuel
+:class: biopic
+:width: 200px
+:align: right
+```
+Manuel is a Postdoctoral Research Scientist at Lamont-Doherty Earth Observatory, Columbia University. He works on two complementary areas: (1) using machine learning techniques to combine observations from different instruments (e.g., gliders, Argo floats, etc.) with high-resolution numerical ocean models, to derive data-constrained estimates of high-resolution ocean state and (2) estimating macroturbulence relevant statistics from in-situ current observations, and using these to study long term trends in the oceanic eddy field. Manuel obtained his Ph.D. in Oceanography at Scripps Institution of Oceanography, University of California San Diego, where he later worked as Postdoctoral Scholar. Manuel enjoys cooking, reading books (science fiction, mental health, and magic realism), running, and watching football (soccer). He practices freediving regularly (or when the ocean conditions allow) and takes pictures of his favorite ocean critters. manuelgv@ldeo.columbia.edu
 
 ## Other Researchers
 
