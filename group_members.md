@@ -35,6 +35,10 @@ Andrew is a PhD student in the Department of [Earth & Environmental Sciences](ht
 
 ## Postdocs
 
+### Feier Yan
+
+Feier is a Postdoctoral Research Scientist at Lamont-Doherty Earth Observatory, Columbia University. She is working on machine learning applications to satellite observations of the ocean.
+
 ### Manuel Othon Gutierrez Villanueva
 
 ```{image} ./_static/photos/manuel.jpg
@@ -47,11 +51,6 @@ Manuel is a Postdoctoral Research Scientist at Lamont-Doherty Earth Observatory,
 
 ## Other Researchers
 
-### Yue Wang
-Yue was a masters student in the APAM department, and is now working in the LOT group as a researcher. 
-
-### Jingwen Lyu 
-Jingwen is a masters student in the APAM department. 
 
 ### David A. Lee
 
@@ -65,3 +64,7 @@ Jingwen is a masters student in the APAM department.
 David is a researcher in the LOT group. His research interests are in using SWOT data to understand the physical dynamics of oceans at the coasts and continental shelves, as well as statistical and machine learning methods in climate physics more broadly. 
 
 Formerly, David was the Legislative Director to New York State Assemblymember Ron Kim, as well as an Adjunct Professor of Economics at Adelphi University. He writes about the intersection of economics, foreign affairs, statecraft, and science at [Alphabet Agency](https://alphabetagency.substack.com/). Beyond his work, David enjoys collecting (and reading) used books.
+
+### Trisha Sharan
+
+Trisha is an undergraduate researcher in the group. She is working on understanding ocean eddy energetics and transport. 
