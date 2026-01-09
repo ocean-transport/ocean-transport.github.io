@@ -21,7 +21,14 @@ You can find his personal website [here](https://dhruvbalwada.github.io/).
 ## PhD Students 
 
 ### Prani Nalluri
-Prani is a PhD student in the APAM department. They are funded by the DOE CSGF fellowship.
+
+```{image} ./_static/photos/andrew.jpg
+:alt: andrew
+:class: biopic
+:width: 200px
+:align: right
+```
+Prani is a PhD student in the Department of [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/). They are funded by the Department of Energy's [Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/). Their primary interest is in using machine learning (ML) to improve oceanographic modeling in Earth system models (ESMs). Currently, they are developing ML-based frameworks to parameterize for historically unresolved small-scale air-sea fluxes in order to reduce bias in ESMs. 
 
 ### Andrew Marshall Fagerheim 
 
