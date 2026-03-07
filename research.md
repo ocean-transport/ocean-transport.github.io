@@ -1,28 +1,28 @@
 ---
 title: "Research"
-# layout: collection
 permalink: /research/
-# collection: research
-# entries_layout: grid
 header:
   image: ./_static/images/vorticity_1km.jpg
   caption: "Eddies in a simulation of the Antarctic Circumpolar Current."
 ---
 # Research
 
-To see published work proceed to [publications](./publications), or to see cool movies related to research visit channels on [youtube](https://www.youtube.com/user/dhruvsus/videos) or [vimeo](https://vimeo.com/user12345586). 
+Our research focuses on understanding ocean turbulence and its role in climate. The ocean's circulation is inherently turbulent and multiscale, and many of the processes most critical for climate operate at scales too small to resolve in current climate models. We tackle this challenge through an integrated approach combining high-resolution simulations, observations, and machine learning.
 
+For published work see [publications](./publications), or visit our [YouTube](https://www.youtube.com/user/dhruvsus/videos) and [Vimeo](https://vimeo.com/user12345586) channels for research videos.
 
-## Vertical transport and ocean ventilation
+## Process understanding from high-resolution models
 
-The ocean exchanges tracers (e.g. heat, carbon, etc) with the atmosphere at the air-sea interface, and these are further exchanged with the interior ocean through the base of the mixed layer. Understanding the mechanisms setting the rate of this vertical transport or ventilation are crucial for quantifying the ocean’s role in climate variability. I have explored the role of the macroscale turbulence, which twists isopycnal outcrops and generates strong fronts near the surface, in controlling this vertical transport using both high-resolution simulations and observations.  
-    
-## Observing and inferring properties of turbulent phenomena  
+High-resolution ocean models that resolve mesoscale and submesoscale turbulence serve as powerful laboratories for understanding processes that remain unresolved in climate models. A central focus has been understanding ventilation in the Southern Ocean, where the exchange of heat, carbon, and nutrients between the surface and the ocean interior plays a disproportionate role in global climate. Our work has shown that submesoscale flows dramatically enhance tracer subduction, with ventilation rates being highly sensitive to multi-scale interactions.
 
-A key signature of turbulent flows is the distribution of energy (or variance) across a wide range of scales, which is accomplished by a cascade or transfer of energy across scales. It is very challenging to measure the properties of these cascades over the 1-100km range of scales, as these scales are too large to be sampled rapidly by ships and usually too small to be accurately measured by satellites. I have addressed this challenge by using observations from arrays of drifting instruments in combination with appropriate new statistical metrics for working with scattered data. My work has resulted in estimates of the scale-wise distribution and dynamical properties of the kinetic energy and tracer variance, and the rates at which this energy is transferred across scales.
+## Bottom-up insights from observations
 
-## Parameterizations and Parameter estimation
+Observations are the ultimate test of our understanding and the foundation for validating models and parameterizations. A major thread of our work extracts novel insights from challenging observational datasets — from drifting instruments, gliders, Argo floats, and satellites — often using statistical and machine learning methods. Highlights include providing the first direct observational evidence of an oceanic dual kinetic energy cascade and estimating bottom-up constraints on eddy mixing rates from local to global scales.
 
-Mesoscale (100 km) ocean eddies, the dominant weather systems in the ocean, play a central role in transport by either directly stirring tracers and/or by dynamically modifying the stratification and mean flow. However, these eddies are usually not resolved in climate simulations, and often parameterized as diffusion. I have estimated observation-based constraints on this diffusivity parameter, and also focused on deciphering the functional relationships between the estimated parameters and the large-scale flow. For this work we use theory and high-resolution simulations and observations. Some of this work is proceeding under the umbrella of [M2LInES](https://m2lines.github.io/).
+## Improved parameterizations for climate models
 
+Ocean eddies play a leading role in circulation but remain poorly resolved in climate models, where their effects must be parameterized. We use machine learning, informed by high-resolution simulations and observations, to develop data-driven parameterizations that reduce structural errors compared to traditional schemes. This work spans both mesoscale and submesoscale processes, and through the [M²LInES](https://m2lines.github.io/) project we are implementing these parameterizations in coupled climate models.
 
+## Ocean state reconstruction
+
+Reconstructing the ocean state at mesoscale and submesoscale resolution from sparse observations is both a major challenge and a frontier opportunity. We are developing machine learning methods to reconstruct upper ocean variables from satellite and in-situ observations, with applications ranging from understanding Southern Ocean dynamics to informing operational needs in shipping, fisheries, and marine carbon dioxide removal.
