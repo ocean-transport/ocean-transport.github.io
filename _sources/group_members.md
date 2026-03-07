@@ -13,15 +13,25 @@
 ```
 dbalwada@ldeo.columbia.edu  
 
-Dhruv is the PI for the ocean transport group. 
-You can find his personal website [here](https://dhruvbalwada.github.io/). 
+Dhruv is the PI for the Ocean Transport Group and a Lamont Assistant Research Professor at Columbia University's Lamont-Doherty Earth Observatory. His research focuses on understanding ocean turbulence and its role in climate, using an integrated approach combining high-resolution simulations, observations, and machine learning. He is a Lead Scientist in the [M²LInES](https://m2lines.github.io/) project, a member of the [LEAP center](https://leap.columbia.edu/), and a recipient of the 2025 AMS Nicholas P. Fofonoff Award.
 
 <div style="clear: both;"></div>
 
 ## PhD Students 
 
 ### Prani Nalluri
-Prani is a PhD student in the APAM department. They are funded by the DOE CSGF fellowship.
+
+```{image} ./_static/photos/prani.jpg
+:alt: prani
+:class: biopic
+:width: 200px
+:align: right
+```
+pan2121@columbia.edu
+
+Prani is a PhD student in the Department of Applied Physics and Applied Mathematics (APAM), with a focus on geophysical fluid dynamics. They are developing machine learning parameterizations for air-sea fluxes, specifically studying how mesoscale and smaller ocean processes rectify air-sea heat exchange. Prani is funded by the DOE Computational Science Graduate Fellowship (CSGF).
+
+<div style="clear: both;"></div>
 
 ### Andrew Marshall Fagerheim 
 
@@ -37,7 +47,17 @@ Andrew is a PhD student in the Department of [Earth & Environmental Sciences](ht
 
 ### Feier Yan
 
-Feier is a Postdoctoral Research Scientist at Lamont-Doherty Earth Observatory, Columbia University. She is working on machine learning applications to satellite observations of the ocean.
+```{image} ./_static/photos/yan.jpg
+:alt: feier
+:class: biopic
+:width: 200px
+:align: right
+```
+fyan@ldeo.columbia.edu
+
+Feier is a Postdoctoral Research Scientist at Lamont-Doherty Earth Observatory. She is developing machine learning emulators for ocean variables, with the goal of enabling data assimilation in the upper ocean from satellite and sparse in-situ observations. Feier received her PhD from the Department of Ocean Sciences at the Hong Kong University of Science and Technology (HKUST), where she worked with Julian Mak.
+
+<div style="clear: both;"></div>
 
 ### Manuel Othon Gutierrez Villanueva
 
@@ -67,4 +87,26 @@ Formerly, David was the Legislative Director to New York State Assemblymember Ro
 
 ### Trisha Sharan
 
-Trisha is an undergraduate researcher in the group. She is working on understanding ocean eddy energetics and transport. 
+```{image} ./_static/photos/trisha.jpg
+:alt: trisha
+:class: biopic
+:width: 200px
+:align: right
+```
+
+Trisha is an undergraduate researcher in the group, majoring in environmental science. She is working on understanding the variability of energy transfers as observed from space. Trisha is supported through work-study funding.
+
+<div style="clear: both;"></div>
+
+### Aayush Parekh
+```{image} ./_static/photos/aayush.jpg
+:alt: aayush
+:class: biopic
+:width: 200px
+:align: right
+```
+aap2258@columbia.edu
+
+Aayush is a Masters student in Data Science at Columbia University working with the group. He is applying machine learning methods to process satellite observations of sea surface height from the SWOT mission.
+
+<div style="clear: both;"></div>
