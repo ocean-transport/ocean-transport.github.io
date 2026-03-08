@@ -7,10 +7,17 @@ header:
 ---
 # Research
 
+
+
 Our research focuses on understanding ocean turbulence and its role in climate. The ocean's circulation is inherently turbulent and multiscale, and many of the processes most critical for climate operate at scales too small to resolve in current climate models. We tackle this challenge through an integrated approach combining high-resolution simulations, observations, and machine learning.
 
 For published work see [publications](./publications), or visit our [YouTube](https://www.youtube.com/user/dhruvsus/videos) and [Vimeo](https://vimeo.com/user12345586) channels for research videos.
 
+```{image} ./_static/images/research_agenda.jpeg
+:alt: Research approach schematic showing the integration of theory, observations, models, and ML/statistical modeling connecting turbulent processes to climate
+:width: 100%
+:align: center
+```
 
 ## Improved parameterizations for ocean and climate models
 
