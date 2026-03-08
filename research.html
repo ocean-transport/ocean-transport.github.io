@@ -349,10 +349,10 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-parameterizations-for-ocean-and-climate-models">Improved parameterizations for ocean and climate models</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#process-understanding-from-high-resolution-models">Process understanding from high-resolution models</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bottom-up-insights-from-observations">Bottom-up insights from observations</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-parameterizations-for-climate-models">Improved parameterizations for climate models</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ocean-state-reconstruction">Ocean state reconstruction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bottom-up-insights-from-in-situ-observations">Bottom-up insights from in-situ observations</a></li>
 </ul>
             </nav>
         </div>
@@ -368,46 +368,49 @@ document.write(`
 <h1>Research<a class="headerlink" href="#research" title="Link to this heading">#</a></h1>
 <p>Our research focuses on understanding ocean turbulence and its role in climate. The ocean’s circulation is inherently turbulent and multiscale, and many of the processes most critical for climate operate at scales too small to resolve in current climate models. We tackle this challenge through an integrated approach combining high-resolution simulations, observations, and machine learning.</p>
 <p>For published work see <a class="reference internal" href="publications.html"><span class="doc std std-doc">publications</span></a>, or visit our <a class="reference external" href="https://www.youtube.com/user/dhruvsus/videos">YouTube</a> and <a class="reference external" href="https://vimeo.com/user12345586">Vimeo</a> channels for research videos.</p>
+<section id="improved-parameterizations-for-ocean-and-climate-models">
+<h2>Improved parameterizations for ocean and climate models<a class="headerlink" href="#improved-parameterizations-for-ocean-and-climate-models" title="Link to this heading">#</a></h2>
+<p>Ocean eddies play a leading role in circulation but remain poorly resolved in climate models, where their effects must be parameterized. We use machine learning, informed by high-resolution simulations and observations, to develop data-driven parameterizations that reduce structural errors compared to traditional schemes. This work spans both mesoscale and submesoscale processes, and through the <a class="reference external" href="https://m2lines.github.io/">M²LInES</a> project we are implementing these parameterizations in coupled climate models.</p>
+<p><strong>Some recent publications:</strong></p>
+<ul class="simple">
+<li><p>Balwada, Perezhogin, Adcroft &amp; Zanna (2025). Design and implementation of a data-driven parameterization for mesoscale thickness fluxes. <em>Submitted to JAMES</em>. <a class="reference external" href="https://doi.org/10.22541/essoar.174835313.30541637/v1">link</a></p></li>
+<li><p>Zanna, Gregory, Perezhogin, … Balwada et al. (2025). A framework for hybrid physics-AI coupled ocean models. <em>Submitted</em>. <a class="reference external" href="https://arxiv.org/abs/2510.22676">link</a></p></li>
+<li><p>Bodner, Balwada &amp; Zanna (2025). A data-driven approach for parameterizing submesoscale vertical buoyancy fluxes in the ocean mixed layer. <em>Journal of Advances in Modeling Earth Systems</em>. <a class="reference external" href="https://doi.org/10.1029/2025MS004991">link</a></p></li>
+</ul>
+</section>
 <section id="process-understanding-from-high-resolution-models">
 <h2>Process understanding from high-resolution models<a class="headerlink" href="#process-understanding-from-high-resolution-models" title="Link to this heading">#</a></h2>
 <p>High-resolution ocean models that resolve mesoscale and submesoscale turbulence serve as powerful laboratories for understanding processes that remain unresolved in climate models. A central focus has been understanding ventilation in the Southern Ocean, where the exchange of heat, carbon, and nutrients between the surface and the ocean interior plays a disproportionate role in global climate. Our work has shown that submesoscale flows dramatically enhance tracer subduction, with ventilation rates being highly sensitive to multi-scale interactions.</p>
-<p><strong>Key publications:</strong></p>
+<p><strong>Some recent publications:</strong></p>
 <ul class="simple">
+<li><p>Busecke, Balwada et al. (2025). The impact of sub-grid heterogeneity on air-sea turbulent heat flux in coupled climate models. <em>Geophysical Research Letters</em>. <a class="reference external" href="https://doi.org/10.1029/2025GL114951">link</a></p></li>
 <li><p>Balwada, Smith &amp; Abernathey (2018). Submesoscale vertical velocities enhance tracer subduction in an idealized Antarctic Circumpolar Current. <em>Geophysical Research Letters</em>. <a class="reference external" href="https://doi.org/10.1029/2018GL079244">link</a></p></li>
 <li><p>Balwada, Xiao, Smith, Abernathey &amp; Gray (2021). Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation. <em>Journal of Physical Oceanography</em>. <a class="reference external" href="https://doi.org/10.1175/JPO-D-21-0016.1">link</a></p></li>
 <li><p>Uchida, Balwada, Abernathey, McKinley, Smith &amp; Lévy (2020). Vertical eddy iron fluxes support primary production in the open Southern Ocean. <em>Nature Communications</em>. <a class="reference external" href="https://doi.org/10.1038/s41467-020-14955-0">link</a></p></li>
 </ul>
 </section>
-<section id="bottom-up-insights-from-observations">
-<h2>Bottom-up insights from observations<a class="headerlink" href="#bottom-up-insights-from-observations" title="Link to this heading">#</a></h2>
-<p>Observations are the ultimate test of our understanding and the foundation for validating models and parameterizations. A major thread of our work extracts novel insights from challenging observational datasets — from drifting instruments, gliders, Argo floats, and satellites — often using statistical and machine learning methods. Highlights include providing the first direct observational evidence of an oceanic dual kinetic energy cascade and estimating bottom-up constraints on eddy mixing rates from local to global scales.</p>
-<p><strong>Key publications:</strong></p>
-<ul class="simple">
-<li><p>Balwada, Xie, Marino &amp; Feraco (2022). Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality. <em>Science Advances</em>. <a class="reference external" href="https://doi.org/10.1126/sciadv.abq2566">link</a></p></li>
-<li><p>Roach, Balwada &amp; Speer (2018). Global observations of horizontal mixing from Argo float and surface drifter trajectories. <em>Journal of Geophysical Research: Oceans</em>. <a class="reference external" href="https://doi.org/10.1029/2018JC013750">link</a></p></li>
-<li><p>Balwada, Gray, Dove &amp; Thompson (2024). Tracer stirring and variability in the Antarctic Circumpolar Current near the Southwest Indian Ridge. <em>Journal of Geophysical Research: Oceans</em>. <a class="reference external" href="https://doi.org/10.1029/2023JC019811">link</a></p></li>
-</ul>
-</section>
-<section id="improved-parameterizations-for-climate-models">
-<h2>Improved parameterizations for climate models<a class="headerlink" href="#improved-parameterizations-for-climate-models" title="Link to this heading">#</a></h2>
-<p>Ocean eddies play a leading role in circulation but remain poorly resolved in climate models, where their effects must be parameterized. We use machine learning, informed by high-resolution simulations and observations, to develop data-driven parameterizations that reduce structural errors compared to traditional schemes. This work spans both mesoscale and submesoscale processes, and through the <a class="reference external" href="https://m2lines.github.io/">M²LInES</a> project we are implementing these parameterizations in coupled climate models.</p>
-<p><strong>Key publications:</strong></p>
-<ul class="simple">
-<li><p>Bodner, Balwada &amp; Zanna (2025). A data-driven approach for parameterizing submesoscale vertical buoyancy fluxes in the ocean mixed layer. <em>Journal of Advances in Modeling Earth Systems</em>. <a class="reference external" href="https://doi.org/10.1029/2025MS004991">link</a></p></li>
-<li><p>Busecke, Balwada et al. (2025). The impact of sub-grid heterogeneity on air-sea turbulent heat flux in coupled climate models. <em>Geophysical Research Letters</em>. <a class="reference external" href="https://doi.org/10.1029/2025GL114951">link</a></p></li>
-<li><p>Balwada, Perezhogin, Adcroft &amp; Zanna (2025). Design and implementation of a data-driven parameterization for mesoscale thickness fluxes. <em>Submitted to JAMES</em>. <a class="reference external" href="https://doi.org/10.22541/essoar.174835313.30541637/v1">link</a></p></li>
-</ul>
-</section>
 <section id="ocean-state-reconstruction">
 <h2>Ocean state reconstruction<a class="headerlink" href="#ocean-state-reconstruction" title="Link to this heading">#</a></h2>
 <p>Reconstructing the ocean state at mesoscale and submesoscale resolution from sparse observations is both a major challenge and a frontier opportunity. We are developing machine learning methods to reconstruct upper ocean variables from satellite and in-situ observations, with applications ranging from understanding Southern Ocean dynamics to informing operational needs in shipping, fisheries, and marine carbon dioxide removal.</p>
-<p><strong>Key publications:</strong></p>
+<p><strong>Some recent publications:</strong></p>
 <ul class="simple">
 <li><p>Xiao, Balwada, Jones, Herrero-González, Smith &amp; Abernathey (2023). Reconstruction of surface kinematics from sea surface height using neural networks. <em>Journal of Advances in Modeling Earth Systems</em>. <a class="reference external" href="https://doi.org/10.1029/2023MS003709">link</a></p></li>
 <li><ul>
 <li><p>Wang, Lyu, Monkman, Jones, Pedersen &amp; Balwada (2025). A multi-scale probabilistic machine learning model for balanced and unbalanced sea surface height decomposition. <em>Submitted to JGR: Machine Learning and Computation</em>. <a class="reference external" href="https://doi.org/10.22541/essoar.176579400.05696416/v1">link</a></p></li>
 </ul>
 </li>
+<li></li>
+</ul>
+</section>
+<section id="bottom-up-insights-from-in-situ-observations">
+<h2>Bottom-up insights from in-situ observations<a class="headerlink" href="#bottom-up-insights-from-in-situ-observations" title="Link to this heading">#</a></h2>
+<p>Observations are the ultimate test of our understanding and the foundation for validating models and parameterizations. A major thread of our work extracts novel insights from challenging observational datasets — from drifting instruments, gliders, Argo floats, and satellites — often using statistical and machine learning methods. Highlights include providing the first direct observational evidence of an oceanic dual kinetic energy cascade and estimating bottom-up constraints on eddy mixing rates from local to global scales.</p>
+<p><strong>Some recent publications:</strong></p>
+<ul class="simple">
+<li><p>Balwada, Xie, Marino &amp; Feraco (2022). Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality. <em>Science Advances</em>. <a class="reference external" href="https://doi.org/10.1126/sciadv.abq2566">link</a></p></li>
+<li><p>Kusters, Balwada &amp; Groeskamp (2025). Global observational estimates of mesoscale eddy-driven quasi-Stokes velocity and buoyancy diffusivity. <em>Geophysical Research Letters</em>. <a class="reference external" href="https://doi.org/10.1029/2025GL115802">link</a></p></li>
+<li><p>Roach, Balwada &amp; Speer (2018). Global observations of horizontal mixing from Argo float and surface drifter trajectories. <em>Journal of Geophysical Research: Oceans</em>. <a class="reference external" href="https://doi.org/10.1029/2018JC013750">link</a></p></li>
+<li><p>Balwada, Gray, Dove &amp; Thompson (2024). Tracer stirring and variability in the Antarctic Circumpolar Current near the Southwest Indian Ridge. <em>Journal of Geophysical Research: Oceans</em>. <a class="reference external" href="https://doi.org/10.1029/2023JC019811">link</a></p></li>
 </ul>
 </section>
 </section>
@@ -476,10 +479,10 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-parameterizations-for-ocean-and-climate-models">Improved parameterizations for ocean and climate models</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#process-understanding-from-high-resolution-models">Process understanding from high-resolution models</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bottom-up-insights-from-observations">Bottom-up insights from observations</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-parameterizations-for-climate-models">Improved parameterizations for climate models</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ocean-state-reconstruction">Ocean state reconstruction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bottom-up-insights-from-in-situ-observations">Bottom-up insights from in-situ observations</a></li>
 </ul>
   </nav></div>
 
