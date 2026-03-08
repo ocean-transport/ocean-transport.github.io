@@ -13,7 +13,9 @@
 ```
 dbalwada@ldeo.columbia.edu  
 
-Dhruv is the PI for the Ocean Transport Group and a Lamont Assistant Research Professor at Columbia University's Lamont-Doherty Earth Observatory. His research focuses on understanding ocean turbulence and its role in climate, using an integrated approach combining high-resolution simulations, observations, and machine learning. He is a Lead Scientist in the [M²LInES](https://m2lines.github.io/) project, a member of the [LEAP center](https://leap.columbia.edu/), and a recipient of the 2025 AMS Nicholas P. Fofonoff Award.
+[CV](./assets/CV_oct_2025.pdf)
+
+Dhruv is the PI for the Ocean Transport Group and a Lamont Assistant Research Professor at Columbia University's Lamont-Doherty Earth Observatory. His research focuses on understanding ocean turbulence and its role in climate, using an integrated approach combining high-resolution simulations, observations, and machine learning. He is a Lead Scientist in the [M²LInES](https://m2lines.github.io/) project, a member of the [LEAP center](https://leap.columbia.edu/), and a recipient of the 2025 AMS Nicholas P. Fofonoff Award. 
 
 <div style="clear: both;"></div>
 
@@ -122,3 +124,21 @@ aap2258@columbia.edu
 Aayush is a Masters student in Data Science at Columbia University working with the group. He is applying machine learning methods to process satellite observations of sea surface height from the SWOT mission.
 
 <div style="clear: both;"></div>
+
+## Recent Alumni
+
+### Graduate Students & Research Assistants
+- Jingwen Lyu, M.S. APAM, Columbia University (2024-2025)
+- Yue Wang, M.S. APAM, Columbia University (2024-2025)
+- Niek Kusters, PhD Student, Royal Netherlands Institute for Sea Research (Summer 2023)
+- Mohammad S. Erfani, LEAP Momentum Fellow, University of South Carolina (Summer 2023) 
+- Martin Brolly, PhD Student, University of Edinburgh (Summer 2022)
+  
+### Undergraduate Students
+- Jack Pope, LDEO REU, Cornell University (Summer 2025)
+- Jack Alfandre, LEAP REU, University of Michigan (Summer 2024)
+- Tony Manriquez, LEAP REU, Metropolitan State University of Denver (Summer 2024)
+- David Venutto, LDEO REU, Dutchess Community College (Summer 2023)
+- Jianna Martinez, LDEO REU, Barnard College (Summer 2023)
+- Patricia Luc, Columbia University (2022-2024)
+ 
