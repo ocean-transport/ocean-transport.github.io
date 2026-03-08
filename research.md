@@ -38,8 +38,9 @@ Reconstructing the ocean state at mesoscale and submesoscale resolution from spa
 
 **Some recent publications:**
 - Xiao, Balwada, Jones, Herrero-González, Smith & Abernathey (2023). Reconstruction of surface kinematics from sea surface height using neural networks. *Journal of Advances in Modeling Earth Systems*. [link](https://doi.org/10.1029/2023MS003709)
-- - Wang, Lyu, Monkman, Jones, Pedersen & Balwada (2025). A multi-scale probabilistic machine learning model for balanced and unbalanced sea surface height decomposition. *Submitted to JGR: Machine Learning and Computation*. [link](https://doi.org/10.22541/essoar.176579400.05696416/v1)
-- 
+- Wang, Lyu, Monkman, Jones, Pedersen & Balwada (2025). A multi-scale probabilistic machine learning model for balanced and unbalanced sea surface height decomposition. *Submitted to JGR: Machine Learning and Computation*. [link](https://doi.org/10.22541/essoar.176579400.05696416/v1)
+
+
 ## Bottom-up insights from in-situ observations
 
 Observations are the ultimate test of our understanding and the foundation for validating models and parameterizations. A major thread of our work extracts novel insights from challenging observational datasets — from drifting instruments, gliders, Argo floats, and satellites — often using statistical and machine learning methods. Highlights include providing the first direct observational evidence of an oceanic dual kinetic energy cascade and estimating bottom-up constraints on eddy mixing rates from local to global scales.
