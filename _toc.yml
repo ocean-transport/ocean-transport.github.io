@@ -4,9 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: guide
 - file: group_members
 - file: research
 - file: publications
 - file: teaching
+- file: guide
 - file: opportunities
