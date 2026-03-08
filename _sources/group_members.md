@@ -12,7 +12,7 @@
 :align: right
 ```
 dbalwada@ldeo.columbia.edu  
-{download}`CV <./assets/CV_oct_2025.pdf>`
+[CV](assets/CV_oct_2025.pdf)   
 Dhruv is the PI for the Ocean Transport Group and a Lamont Assistant Research Professor at Columbia University's Lamont-Doherty Earth Observatory. His research focuses on understanding ocean turbulence and its role in climate, using an integrated approach combining high-resolution simulations, observations, and machine learning. He is a Lead Scientist in the [M²LInES](https://m2lines.github.io/) project, a member of the [LEAP center](https://leap.columbia.edu/), and a recipient of the 2025 AMS Nicholas P. Fofonoff Award. 
 
 <div style="clear: both;"></div>
